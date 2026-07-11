@@ -134,6 +134,11 @@ text-align: left;
    transition: all 0.3s ease;
   
 }
+.spot-card:hover{
+    cursor: pointer;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
  
 .spot-card li{
     margin-bottom: 10px;
