@@ -134,12 +134,7 @@ text-align: left;
    transition: all 0.3s ease;
   
 }
-.spot-card:hover{
-    cursor: pointer;
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
-    transform: translateY(-10px);
-}
- 
+
 .spot-card li{
     margin-bottom: 10px;
     color: #6B7280;
@@ -461,6 +456,12 @@ footer{
     border: none;
     border-top: 1px solid rgba(235, 231, 231, 0.671);
 
+}
+.conf{
+   color: #3B82F6;
+   text-shadow: #F8FAFC;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
 }
 
 .icon{
